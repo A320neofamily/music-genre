@@ -1,0 +1,392 @@
+<!doctype html>
+<html lang="ko"><head><script>window["__codeletBootstrap__"]=JSON.parse('{"A":"A","B":"20261023-04-bec0c89","C":{"Abril Fatface":"YACgEZbkUVE,0","Albert Sans":"YAHO2HRfeh4,0","Alfa Slab One":"YACgEYS9sJU,0","Anton":"YACgEcYqQ-A,0","Archivo Black":"YACgEZulLoA,0","Archivo":"YAHO2-t-jNE,0","Arial":"YAGyDvJ_4Ts,0","Atkinson Hyperlegible":"YAFge7Z-F6s,0","Azeret Mono":"YAHO2EIdDP0,0","Baloo 2":"YAHO2IcQUcM,0","Bangers":"YAD5qTdjGKo,1","Barlow Condensed":"YAFdJljEuFc,0","Barlow Semi Condensed":"YAFdJu55qXI,0","Barlow":"YAFdJsyuOPM,1","Bebas Neue":"YACgESME5ew,0","Big Shoulders Display":"YAFdJs8L2aw,0","Bodoni Moda":"YAHO2C7VUJE,0","Bricolage Grotesque":"YAFyMcdwzpc,0","Cairo":"YAFdtXpDzlQ,0","Canva Sans":"YAFdJjTk5UU,1","Caprasimo":"YAHO2PYTkbo,0","Caveat":"YALBs2ploWQ,0","Cinzel":"YACgEeV8bIQ,0","Comic Neue":"YAHO2VMiyZo,0","Commissioner":"YAHO2RRI-KE,0","Cormorant Garamond":"YAFdJhX-538,0","Courier New":"YAGzXiGs0_8,0","Courier Prime":"YAD1aFjegN8,0","DM Mono":"YAHO2SGpw0w,0","DM Sans":"YAD1aU3sLnI,0","DM Serif Display":"YAD1aYG82rc,0","Familjen Grotesk":"YAHO2ZriIzU,0","Figtree":"YAHO2b-mV7A,0","Forum":"YACgEcnnqB4,0","Fraunces":"YAFdJpU7Kkk,0","Fredoka":"YACgEZml080,0","Gabarito":"YAHO2cD3JmI,0","Geist":"YAHO2SfKS30,0","Gentium Book Plus":"YAHO2b-adyU,0","Georgia":"YAGzXkO0pEM,0","Gloock":"YAHO2WVhd0Q,0","Golos Text":"YAHO2QlqAQk,0","Hanken Grotesk":"YAHO2VB9G0I,0","Helvetica":"YAFcf7zkXN0,0","Host Grotesk":"YAHO2VztvdY,0","IBM Plex Mono":"YAFdJkmvhGI,0","IBM Plex Sans":"YAFdJgT0SHI,0","Impact":"YAFcfnjI7Vk,0","Instrument Sans":"YAHO2bKyaSQ,0","Instrument Serif":"YAHFeOnZNEk,0","Inter":"YAFdJvSyp_k,3","Italiana":"YAHO2Toik_w,0","Jacques Francois":"YAHO2a5g66Q,0","JetBrains Mono":"YAFdJksXcAk,0","Josefin Sans":"YAFdJjvw9Ps,0","Jua":"YADK3-gZSDU,0","Kalam":"YAFdJrEg2ic,0","Karla":"YAHO2V2NSXM,0","Lato":"YAFdJuFCnaw,0","League Spartan":"YACgEcnJpjs,0","Libre Baskerville":"YACgEUFdPdA,0","Libre Caslon Display":"YAHO2XhLmt0,0","Libre Franklin":"YAFdJr3SNlU,1","Lobster":"YAD8SnSjSFI,0","Lora":"YACgEXvxf8Q,0","Manrope":"YAHO2b2feC4,0","Martian Mono":"YAHO2YhUMkk,0","Merriweather":"YACgEXvHxxs,0","Michroma":"YADK4IYX8vY,0","Montserrat":"YAFdtQi73Xs,0","Noto Sans JP":"YAFdJiHXlcI,0","Noto Sans KR":"YAGsojZj-RQ,0","Noto Sans SC":"YAHO2hDCDFM,0","Nunito Sans":"YAFdtQJYB9w,1","Nunito":"YAFdJoNRMmU,1","Old Standard TT":"YAHO2lhtDcg,0","Oleo Script":"YACgEQQ14jI,0","Onest":"YAHO2kaArOY,0","Open Sans":"YAFdJt8dAY0,1","Oswald":"YACgEQY10lw,0","Outfit":"YAHO2nVlg14,0","PT Serif":"YACgEcU7Qg4,0","Pacifico":"YADLjORQ1u4,0","Parisienne":"YACgERSYqTw,0","Playfair Display":"YAFdJhem5V8,1","Plus Jakarta Sans":"YAHO2gdhi18,0","Poppins":"YAFdJjbTu24,1","Press Start 2P":"YAFyGr-8pmQ,0","Public Sans":"YAFdJj8NdaU,1","Quicksand":"YAFdJpYtCxE,1","Raleway":"YAFdJhmxbVQ,1","Red Hat Display":"YAD1bzs0p0Y,0","Red Hat Text":"YAHO21kkNWg,0","Roboto Mono":"YAFdJkvp3-k,0","Roboto Slab":"YAFdJswIKAg,0","Rockwell":"YAFcfyVZnN0,0","Rubik":"YAFdJsMWVVc,0","Rye":"YACgEdQP21k,0","STIX Two Text":"YAHO2joycuk,0","Sarabun":"YAFdJssSnME,0","Schibsted Grotesk":"YAHO2sWydRk,0","Segoe UI":"YAHNdRD1Klw,0","Sniglet":"YACgEUJSCy8,0","Source Sans 3":"YAG4lO1Mj10,0","Space Grotesk":"YAHO2sjPCSM,0","Space Mono":"YADW1-vpsoc,0","Spectral":"YAHO2rVUHIM,0","Syne":"YAHML9oLRPc,0","Times New Roman":"YAGzXW3gftg,0","Trebuchet MS":"YAFcfrglpVA,0","Ubuntu":"YACgERDU--Q,0","Unbounded":"YAHO2rkdmWY,0","Varela Round":"YALBs2IK6rw,0","Verdana":"YAGzXTctYtQ,0","Work Sans":"YAGXhLOKv44,0","Yellowtail":"YACgEYG4kG4,0"}}');</script><script src="/_sdk/05db820ba1544614.telemetry_sdk.js" integrity="sha512-a7JzkQDDcioSXpM61nxTfeRW7PcxWQy5+BrhyeTFmQFsXJ+Gncm0y50u7fTA7qOPegFnRgqCfa0mGUOK1yjDWQ=="></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>나만의 음악 취향 찾기</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&amp;family=Fira+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing:border-box; }
+    body { width:100%; margin:0; background:#10162c; color:#f7f8ff; font-family:"DM Sans","Fira Sans",sans-serif; }
+    .app-shell { width:100%; min-height:calc(100 * min(var(--vh, 1vh), 1vh)); padding:28px 20px 56px; background:radial-gradient(circle at 84% 8%,rgba(145,113,255,.22),transparent 36%),radial-gradient(circle at 10% 85%,rgba(96,221,195,.12),transparent 35%); }
+    .site-width { width:100%; max-width:820px; margin:0 auto; }
+    /* The existing header and footer sit outside the selected main experience. */
+    .brand { display:flex; align-items:center; gap:11px; font-weight:800; letter-spacing:-.04em; }
+    .brand-mark { display:grid; place-items:center; width:38px; height:38px; border-radius:13px; background:#a5f3d7; color:#10162c; font-size:23px; }
+    .foot { margin-top:28px; color:#9eabc6; font-size:13px; text-align:center; }
+
+    .music-main { --lime:#ceff39; --pink:#ff4da6; --purple:#ab63ff; --ink:#111322; --panel:#1a1c30; --white:#faf8ff; --muted:#d1cde0; color:var(--white); }
+    .music-main .glass {
+      position:relative; isolation:isolate; overflow:hidden;
+      background:linear-gradient(142deg,#25203b 0%,#191b30 48%,#121827 100%);
+      border:3px solid #ab63ff; border-radius:9px 28px 9px 9px;
+      box-shadow:10px 11px 0 #080a16,0 25px 75px rgba(0,0,0,.52),0 0 35px rgba(171,99,255,.24);
+    }
+    .music-main .glass::before {
+      content:""; position:absolute; inset:0; z-index:-1; pointer-events:none;
+      background:repeating-linear-gradient(132deg,transparent 0,transparent 43px,rgba(255,255,255,.026) 44px,rgba(255,255,255,.026) 45px);
+    }
+    .music-main .view { animation:rise .35s ease both; }
+    @keyframes rise { from { opacity:0; transform:translateY(12px); } to { opacity:1; transform:translateY(0); } }
+    .music-main .intro { padding:clamp(29px,6vw,62px); margin-top:clamp(38px,8vw,88px); }
+    .music-main .intro::after { content:"♫"; position:absolute; right:-16px; bottom:-75px; font-size:270px; line-height:1; color:rgba(206,255,57,.075); pointer-events:none; }
+    .music-main .eyebrow { color:var(--lime); font-size:13px; font-weight:800; letter-spacing:.17em; text-transform:uppercase; }
+    .music-main .hero-title { font-size:clamp(39px,7vw,72px); line-height:1.14; letter-spacing:-.075em; margin:18px 0; font-weight:800; position:relative; text-shadow:3px 4px 0 #7732ad; }
+    .music-main .hero-copy { font-size:clamp(16px,2vw,20px); line-height:1.7; color:var(--muted); margin:0 0 36px; position:relative; }
+    .music-main button { cursor:pointer; transition:transform .18s,box-shadow .18s,background .18s; }
+    .music-main button:hover { transform:translate(-2px,-2px); }
+    .music-main .primary,.music-main .secondary { border-radius:5px 14px 5px 5px; padding:14px 21px; font-weight:800; border:2px solid; }
+    .music-main .primary { background:var(--lime); color:var(--ink); border-color:var(--lime); box-shadow:5px 5px 0 #7834af,0 0 20px rgba(206,255,57,.3); font-size:16px; }
+    .music-main .secondary { background:#29203c; color:var(--white); border-color:var(--purple); box-shadow:4px 4px 0 #0b0c17; }
+    .music-main :focus-visible { outline:3px solid var(--lime); outline-offset:4px; }
+    .music-main .survey,.music-main .result { margin-top:35px; padding:clamp(23px,5vw,47px); }
+    .music-main .meta { display:flex; justify-content:space-between; gap:15px; margin:20px 0 12px; color:var(--muted); font-size:14px; font-weight:700; }
+    .music-main .progress { height:12px; border:2px solid #8260a5; background:#0c1020; overflow:hidden; }
+    .music-main .progress-fill { width:0; height:100%; background:linear-gradient(90deg,#ab63ff,#ff4da6,#ceff39); box-shadow:0 0 16px var(--pink); transition:width .35s ease; }
+    .music-main .question { margin:32px 0 24px; font-size:clamp(24px,3.7vw,35px); font-weight:800; letter-spacing:-.045em; line-height:1.4; }
+    .music-main .choices { display:grid; gap:11px; }
+    .music-main .choice { position:relative; display:block; cursor:pointer; }
+    .music-main .choice input { position:absolute; opacity:0; width:1px; height:1px; }
+    .music-main .choice-face { display:flex; align-items:center; gap:15px; min-height:65px; padding:13px 18px; border:2px solid #625575; border-radius:4px 13px 4px 4px; background:#26243c; color:var(--white); transition:background .2s,border-color .2s,transform .2s,box-shadow .2s; font-weight:700; }
+    .music-main .choice-face::before { content:""; flex:none; width:20px; height:20px; border:2px solid #c4b6d6; border-radius:50%; }
+    .music-main .choice:hover .choice-face { border-color:var(--pink); transform:translateX(3px); }
+    .music-main .choice input:checked + .choice-face { border-color:var(--lime); background:var(--lime); color:#111322; box-shadow:5px 5px 0 #a348ed,0 0 19px rgba(206,255,57,.32); }
+    .music-main .choice input:checked + .choice-face::before { border:6px solid #111322; background:var(--lime); }
+    .music-main .choice input:focus-visible + .choice-face { outline:3px solid var(--pink); outline-offset:3px; }
+    .music-main .actions { display:flex; flex-wrap:wrap; gap:13px; justify-content:space-between; margin-top:30px; }
+    .music-main .feedback { min-height:25px; margin-top:13px; color:#ffb7da; font-weight:700; }
+    .music-main .result-genre { font-size:clamp(39px,7vw,68px); margin:14px 0; line-height:1.16; letter-spacing:-.06em; font-weight:800; color:var(--lime); text-shadow:3px 4px 0 #7a2ead,0 0 24px rgba(206,255,57,.25); overflow-wrap:anywhere; }
+    .music-main .result-description { color:#e5e1ef; line-height:1.8; font-size:17px; margin:0 0 27px; }
+    .music-main .section-heading { font-size:21px; font-weight:800; margin:29px 0 14px; }
+    .music-main .keywords { display:flex; flex-wrap:wrap; gap:8px; }
+    .music-main .keyword { border:2px solid var(--pink); border-radius:3px 11px 3px 3px; padding:8px 13px; color:#fff; background:#582257; font-weight:800; font-size:14px; }
+    .music-main .song-list { display:grid; gap:10px; }
+    .music-main .song { display:flex; align-items:center; justify-content:space-between; gap:12px; background:#27243e; border:2px solid #675078; border-radius:4px 12px 4px 4px; padding:10px 11px 10px 17px; box-shadow:3px 4px 0 #0d0e1b; }
+    .music-main .song-name { min-width:0; line-height:1.5; font-weight:700; overflow-wrap:anywhere; }
+    .music-main .play-button { flex:none; width:40px; height:40px; border:2px solid var(--pink); border-radius:5px; background:var(--purple); color:#111322; font-size:16px; font-weight:800; box-shadow:2px 3px 0 #0b0c17; }
+    .music-main .notice { color:var(--lime); min-height:25px; margin-top:15px; font-weight:700; }
+    .music-main .result-actions { justify-content:flex-start; margin-top:25px; }
+    [hidden] { display:none !important; }
+    @media(max-width:560px) {
+      .app-shell { padding:20px 13px 40px; }
+      .music-main .survey,.music-main .result { margin-top:24px; }
+      .music-main .glass { box-shadow:5px 7px 0 #080a16,0 19px 45px rgba(0,0,0,.4); }
+      .music-main .actions > * { flex:1 1 130px; }
+      .music-main .result-actions > * { flex:1 1 100%; }
+    }
+    @media(prefers-reduced-motion:reduce) { *,*::before,*::after { animation-duration:.01ms !important; transition-duration:.01ms !important; scroll-behavior:auto !important; } }
+  </style>
+  <script src="https://cdn.tailwindcss.com/3.4.17" type="text/javascript"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lucide@0.577.0/dist/umd/lucide.min.js" type="text/javascript"></script>
+  <script src="/_sdk/570d53629f0b998d.data_sdk.js" type="text/javascript" integrity="sha512-JEN39+V+Nvv9ZZOVS8vNk1iA9ErZJHTdgOw9KzPuMiK7m0I+KPEr/wmTnCFIQVsDjCZgJWfGnFi1IQh2Io2qyA=="></script>
+  <script src="/_sdk/3c889ef0464c8f3c.editing_sdk.js" type="text/javascript" integrity="sha512-NXaPkdInwCOHRcD1AlnM1kHXlU9YrcK/X97HuqeduFmMqNEHYKT8h1O1g4ofohcZaE8pxMTkkESWY0NPm6G8AQ=="></script>
+  <script src="/_sdk/c30df2f1b43bb1c9.resizing_sdk.js" type="text/javascript" integrity="sha512-D333Ts+f4grQi3QxtsDXggpMWmSBzoaq0HBneFnX5mKOM0DIqoMYROhGiQrAeQEiHtxcjverIEa7k6HIZXqXiA=="></script>
+ </head>
+ <body data-template-id="__page-root" style="background: rgb(16, 22, 44);">
+  <div class="app-shell">
+   <header class="site-width">
+    <div class="brand"><span class="brand-mark" aria-hidden="true">♫</span><span data-template-id="brand-name" class="canva-text" style="color: rgb(247, 248, 255); font-weight: 800; font-style: normal; font-size: 16px;">나만의 음악 취향 찾기</span>
+    </div>
+   </header>
+   <main class="site-width music-main">
+    <section id="start-view" class="glass intro view" aria-labelledby="app-title">
+     <p data-template-id="intro-eyebrow" class="canva-text eyebrow" style="color: rgb(206, 255, 57); font-weight: 800; font-style: normal; font-size: 16px;">YOUR SOUND, YOUR STORY</p>
+     <h1 id="app-title" data-template-id="app-title" class="canva-text hero-title" style="color: rgb(250, 248, 255);"><span data-template-id="app-title-text" class="canva-text" style="color: rgb(250, 248, 255); font-weight: 800; font-style: normal; font-size: 64px;">나만의 음악 취향 찾기</span></h1>
+     <p data-template-id="intro-copy" class="canva-text hero-copy" style="color: rgb(209, 205, 224); font-weight: 400; font-style: normal; font-size: 16px;">몇 가지 질문으로 지금의 음악 취향을 찾아보세요</p><button id="start-button" data-template-id="start-button" class="canva-button primary" type="button" style="background: rgb(206, 255, 57); color: rgb(17, 19, 34); font-weight: 800; font-style: normal; font-size: 16px;">취향 찾기 시작하기 →</button>
+    </section>
+    <section id="survey-view" class="glass survey view" aria-labelledby="survey-heading" hidden="">
+     <h2 id="survey-heading" data-template-id="survey-heading" class="canva-text eyebrow" style="color: rgb(206, 255, 57); font-weight: 800; font-style: normal; font-size: 24px;">취향을 알아가는 중</h2>
+     <div class="meta"><span id="question-count" aria-live="polite"></span><span id="progress-label"></span>
+     </div>
+     <div class="progress" role="progressbar" aria-label="설문 진행률" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+      <div id="progress-fill" class="progress-fill"></div>
+     </div>
+     <form id="survey-form" novalidate="">
+      <div id="question-panels">
+       <fieldset class="question-panel border-0 p-0 m-0" data-question="0">
+        <legend data-template-id="question-1" class="canva-text question" style="color: rgb(250, 248, 255); font-weight: 800; font-style: normal; font-size: 16px;">음악을 들을 때 가장 중요한 것은 무엇인가요?</legend>
+        <div class="choices">
+         <label class="choice"><input type="radio" name="q0" value="0"><span data-template-id="q1-a1" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">감정과 가사</span></label> <label class="choice"><input type="radio" name="q0" value="1"><span data-template-id="q1-a2" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">강렬한 에너지</span></label> <label class="choice"><input type="radio" name="q0" value="2"><span data-template-id="q1-a3" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">편안한 분위기</span></label> <label class="choice"><input type="radio" name="q0" value="3"><span data-template-id="q1-a4" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">새로운 사운드</span></label> <label class="choice"><input type="radio" name="q0" value="4"><span data-template-id="q1-a5" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">리듬과 그루브</span></label>
+        </div>
+       </fieldset>
+       <fieldset class="question-panel border-0 p-0 m-0" data-question="1" hidden="">
+        <legend data-template-id="question-2" class="canva-text question" style="color: rgb(250, 248, 255); font-weight: 800; font-style: normal; font-size: 16px;">지금 듣고 싶은 분위기는 무엇인가요?</legend>
+        <div class="choices">
+         <label class="choice"><input type="radio" name="q1" value="0"><span data-template-id="q2-a1" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">감성적인</span></label> <label class="choice"><input type="radio" name="q1" value="1"><span data-template-id="q2-a2" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">신나는</span></label> <label class="choice"><input type="radio" name="q1" value="2"><span data-template-id="q2-a3" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">차분한</span></label> <label class="choice"><input type="radio" name="q1" value="3"><span data-template-id="q2-a4" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">몽환적인</span></label> <label class="choice"><input type="radio" name="q1" value="4"><span data-template-id="q2-a5" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">자유롭고 개성 있는</span></label>
+        </div>
+       </fieldset>
+       <fieldset class="question-panel border-0 p-0 m-0" data-question="2" hidden="">
+        <legend data-template-id="question-3" class="canva-text question" style="color: rgb(250, 248, 255); font-weight: 800; font-style: normal; font-size: 16px;">선호하는 보컬 스타일은 무엇인가요?</legend>
+        <div class="choices">
+         <label class="choice"><input type="radio" name="q2" value="0"><span data-template-id="q3-a1" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">부드럽고 섬세한 보컬</span></label> <label class="choice"><input type="radio" name="q2" value="1"><span data-template-id="q3-a2" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">파워풀한 보컬</span></label> <label class="choice"><input type="radio" name="q2" value="2"><span data-template-id="q3-a3" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">담백한 보컬</span></label> <label class="choice"><input type="radio" name="q2" value="3"><span data-template-id="q3-a4" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">개성 있는 보컬</span></label> <label class="choice"><input type="radio" name="q2" value="4"><span data-template-id="q3-a5" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">보컬보다 사운드 중심</span></label>
+        </div>
+       </fieldset>
+       <fieldset class="question-panel border-0 p-0 m-0" data-question="3" hidden="">
+        <legend data-template-id="question-4" class="canva-text question" style="color: rgb(250, 248, 255); font-weight: 800; font-style: normal; font-size: 16px;">가장 좋아하는 악기나 사운드는 무엇인가요?</legend>
+        <div class="choices">
+         <label class="choice"><input type="radio" name="q3" value="0"><span data-template-id="q4-a1" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">피아노와 스트링</span></label> <label class="choice"><input type="radio" name="q3" value="1"><span data-template-id="q4-a2" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">기타와 드럼</span></label> <label class="choice"><input type="radio" name="q3" value="2"><span data-template-id="q4-a3" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">어쿠스틱 악기</span></label> <label class="choice"><input type="radio" name="q3" value="3"><span data-template-id="q4-a4" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">전자음과 신스</span></label> <label class="choice"><input type="radio" name="q3" value="4"><span data-template-id="q4-a5" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">베이스와 비트</span></label>
+        </div>
+       </fieldset>
+       <fieldset class="question-panel border-0 p-0 m-0" data-question="4" hidden="">
+        <legend data-template-id="question-5" class="canva-text question" style="color: rgb(250, 248, 255); font-weight: 800; font-style: normal; font-size: 16px;">음악을 주로 언제 듣나요?</legend>
+        <div class="choices">
+         <label class="choice"><input type="radio" name="q4" value="0"><span data-template-id="q5-a1" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">밤에 혼자</span></label> <label class="choice"><input type="radio" name="q4" value="1"><span data-template-id="q5-a2" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">운동하거나 이동할 때</span></label> <label class="choice"><input type="radio" name="q4" value="2"><span data-template-id="q5-a3" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">공부하거나 일할 때</span></label> <label class="choice"><input type="radio" name="q4" value="3"><span data-template-id="q5-a4" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">카페나 산책 중</span></label> <label class="choice"><input type="radio" name="q4" value="4"><span data-template-id="q5-a5" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">친구들과 함께</span></label>
+        </div>
+       </fieldset>
+       <fieldset class="question-panel border-0 p-0 m-0" data-question="5" hidden="">
+        <legend data-template-id="question-6" class="canva-text question" style="color: rgb(250, 248, 255); font-weight: 800; font-style: normal; font-size: 16px;">좋아하는 곡의 속도는 어떤가요?</legend>
+        <div class="choices">
+         <label class="choice"><input type="radio" name="q5" value="0"><span data-template-id="q6-a1" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">느리고 여유로운</span></label> <label class="choice"><input type="radio" name="q5" value="1"><span data-template-id="q6-a2" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">중간 템포</span></label> <label class="choice"><input type="radio" name="q5" value="2"><span data-template-id="q6-a3" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">빠르고 강렬한</span></label> <label class="choice"><input type="radio" name="q5" value="3"><span data-template-id="q6-a4" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">상황에 따라 모두</span></label>
+        </div>
+       </fieldset>
+       <fieldset class="question-panel border-0 p-0 m-0" data-question="6" hidden="">
+        <legend data-template-id="question-7" class="canva-text question" style="color: rgb(250, 248, 255); font-weight: 800; font-style: normal; font-size: 16px;">새로운 음악을 발견할 때 무엇을 가장 중요하게 생각하나요?</legend>
+        <div class="choices">
+         <label class="choice"><input type="radio" name="q6" value="0"><span data-template-id="q7-a1" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">가사와 메시지</span></label> <label class="choice"><input type="radio" name="q6" value="1"><span data-template-id="q7-a2" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">기억에 남는 멜로디와 후렴</span></label> <label class="choice"><input type="radio" name="q6" value="2"><span data-template-id="q7-a3" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">독특한 사운드와 분위기</span></label> <label class="choice"><input type="radio" name="q6" value="3"><span data-template-id="q7-a4" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">리듬과 비트</span></label> <label class="choice"><input type="radio" name="q6" value="4"><span data-template-id="q7-a5" class="canva-text choice-face" style="font-weight: 400; font-style: normal; font-size: 16px;">아티스트의 개성</span></label>
+        </div>
+       </fieldset>
+      </div>
+      <p id="survey-error" class="feedback" role="alert"></p>
+      <div class="actions">
+       <button id="back-button" data-template-id="back-button" class="canva-button secondary" type="button" style="background: rgb(41, 32, 60); color: rgb(250, 248, 255); font-weight: 800; font-style: normal; font-size: 16px;">← 뒤로 가기</button> <button id="next-button" data-template-id="next-button" class="canva-button primary" type="submit" style="background: rgb(206, 255, 57); color: rgb(17, 19, 34); font-weight: 800; font-style: normal; font-size: 16px;">다음 →</button> <button id="submit-button" data-template-id="submit-button" class="canva-button primary" type="submit" hidden="" style="background: rgb(206, 255, 57); color: rgb(17, 19, 34); font-weight: 800; font-style: normal; font-size: 16px;">결과 보기 →</button>
+      </div>
+     </form>
+    </section>
+    <section id="pattern-view" class="glass result view" aria-labelledby="pattern-heading" hidden="">
+     <h2 id="pattern-heading" data-template-id="pattern-heading" class="canva-text eyebrow" style="color: rgb(206, 255, 57); font-weight: 800; font-style: normal; font-size: 24px;">응답 패턴 안내</h2>
+     <p data-template-id="pattern-message" class="canva-text result-description" style="color: rgb(229, 225, 239); font-weight: 400; font-style: normal; font-size: 16px;">모든 질문에서 같은 번호를 선택하셨어요. 더 정확한 추천을 위해 각 질문을 다시 생각해 답변해 주세요.</p>
+     <div class="actions result-actions">
+      <button id="pattern-restart-button" data-template-id="pattern-restart-button" class="canva-button primary" type="button" style="background: rgb(206, 255, 57); color: rgb(17, 19, 34); font-weight: 800; font-style: normal; font-size: 16px;">다시 설문하기</button>
+     </div>
+    </section>
+    <section id="result-view" class="glass result view" aria-labelledby="result-heading" hidden="">
+     <h2 id="result-heading" data-template-id="result-heading" class="canva-text eyebrow" style="color: rgb(206, 255, 57); font-weight: 800; font-style: normal; font-size: 24px;">당신을 위한 플레이리스트</h2>
+     <p id="result-genre" class="result-genre" aria-live="polite"></p>
+     <p id="result-description" class="result-description"></p>
+     <h3 data-template-id="keyword-heading" class="canva-text section-heading" style="color: rgb(250, 248, 255); font-weight: 800; font-style: normal; font-size: 21px;">당신의 취향 키워드</h3>
+     <div id="result-keywords" class="keywords"></div>
+     <h3 data-template-id="songs-heading" class="canva-text section-heading" style="color: rgb(250, 248, 255); font-weight: 800; font-style: normal; font-size: 21px;">이런 곡은 어떠세요?</h3>
+     <div id="genre-songs">
+      <div class="song-list genre-panel" data-genre="R&amp;B" hidden="">
+       <div class="song"><span data-template-id="rb-song-1" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">Good Days — SZA</span><button class="play-button" type="button" aria-label="Good Days 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="rb-song-2" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">Best Part — Daniel Caesar</span><button class="play-button" type="button" aria-label="Best Part 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="rb-song-3" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">instagram — DEAN</span><button class="play-button" type="button" aria-label="instagram 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="rb-song-4" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">Rush Hour — Crush</span><button class="play-button" type="button" aria-label="Rush Hour 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="rb-song-5" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">Thinkin Bout You — Frank Ocean</span><button class="play-button" type="button" aria-label="Thinkin Bout You 검색 안내">▶</button>
+       </div>
+      </div>
+      <div class="song-list genre-panel" data-genre="락" hidden="">
+       <div class="song"><span data-template-id="rock-song-1" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">Do I Wanna Know? — Arctic Monkeys</span><button class="play-button" type="button" aria-label="Do I Wanna Know 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="rock-song-2" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">Everlong — Foo Fighters</span><button class="play-button" type="button" aria-label="Everlong 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="rock-song-3" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">한 페이지가 될 수 있게 — DAY6</span><button class="play-button" type="button" aria-label="한 페이지가 될 수 있게 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="rock-song-4" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">Still Into You — Paramore</span><button class="play-button" type="button" aria-label="Still Into You 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="rock-song-5" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">Don't Stop Me Now — Queen</span><button class="play-button" type="button" aria-label="Don't Stop Me Now 검색 안내">▶</button>
+       </div>
+      </div>
+      <div class="song-list genre-panel" data-genre="발라드" hidden="">
+       <div class="song"><span data-template-id="ballad-song-1" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">Easy On Me — Adele</span><button class="play-button" type="button" aria-label="Easy On Me 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="ballad-song-2" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">신호등 — 이무진</span><button class="play-button" type="button" aria-label="신호등 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="ballad-song-3" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">두 사람 — 성시경</span><button class="play-button" type="button" aria-label="두 사람 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="ballad-song-4" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">밤편지 — IU</span><button class="play-button" type="button" aria-label="밤편지 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="ballad-song-5" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">Perfect — Ed Sheeran</span><button class="play-button" type="button" aria-label="Perfect 검색 안내">▶</button>
+       </div>
+      </div>
+      <div class="song-list genre-panel" data-genre="인디" hidden="">
+       <div class="song"><span data-template-id="indie-song-1" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">seasons — wave to earth</span><button class="play-button" type="button" aria-label="seasons 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="indie-song-2" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">기다린 만큼 — 검정치마</span><button class="play-button" type="button" aria-label="기다린 만큼 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="indie-song-3" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">Comes And Goes — HYUKOH</span><button class="play-button" type="button" aria-label="Comes And Goes 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="indie-song-4" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">긴 꿈 — 새소년</span><button class="play-button" type="button" aria-label="긴 꿈 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="indie-song-5" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">주저하는 연인들을 위해 — 잔나비</span><button class="play-button" type="button" aria-label="주저하는 연인들을 위해 검색 안내">▶</button>
+       </div>
+      </div>
+      <div class="song-list genre-panel" data-genre="힙합/팝" hidden="">
+       <div class="song"><span data-template-id="pop-song-1" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">HUMBLE. — Kendrick Lamar</span><button class="play-button" type="button" aria-label="HUMBLE 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="pop-song-2" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">Ditto — NewJeans</span><button class="play-button" type="button" aria-label="Ditto 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="pop-song-3" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">24K Magic — Bruno Mars</span><button class="play-button" type="button" aria-label="24K Magic 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="pop-song-4" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">See You Again — Tyler, The Creator</span><button class="play-button" type="button" aria-label="See You Again 검색 안내">▶</button>
+       </div>
+       <div class="song"><span data-template-id="pop-song-5" class="canva-text song-name" style="font-weight: 400; font-style: normal; font-size: 16px;">Supernova — aespa</span><button class="play-button" type="button" aria-label="Supernova 검색 안내">▶</button>
+       </div>
+      </div>
+     </div>
+     <p id="result-notice" class="notice" role="status" aria-live="polite"></p>
+     <div class="actions result-actions">
+      <button id="edit-button" data-template-id="edit-button" class="canva-button secondary" type="button" style="background: rgb(41, 32, 60); color: rgb(250, 248, 255); font-weight: 800; font-style: normal; font-size: 16px;">답변 바꿔 다시 계산</button> <button id="restart-button" data-template-id="restart-button" class="canva-button secondary" type="button" style="background: rgb(41, 32, 60); color: rgb(250, 248, 255); font-weight: 800; font-style: normal; font-size: 16px;">다시 설문하기</button> <button id="copy-button" data-template-id="copy-button" class="canva-button primary" type="button" style="background: rgb(206, 255, 57); color: rgb(17, 19, 34); font-weight: 800; font-style: normal; font-size: 16px;">추천 결과 복사</button>
+     </div>
+    </section>
+   </main>
+   <footer class="site-width foot"><span data-template-id="footer-copy" class="canva-text" style="color: rgb(158, 171, 198); font-weight: 400; font-style: normal; font-size: 16px;">지금의 기분에 어울리는 소리를 찾아보세요 ♪</span>
+   </footer>
+  </div>
+  <script>
+(() => {
+  const genres = ["R&B", "락", "발라드", "인디", "힙합/팝"];
+  const points = [
+    [[2,0,2,0,0],[0,3,0,0,1],[1,0,1,2,0],[0,0,0,2,2],[2,0,0,0,2]],
+    [[1,0,2,1,0],[0,2,0,0,2],[1,0,2,1,0],[1,0,0,2,1],[0,1,0,2,1]],
+    [[2,0,2,0,0],[0,3,1,0,0],[1,0,2,2,0],[1,1,0,2,0],[1,0,0,2,2]],
+    [[0,0,3,1,0],[0,3,0,1,0],[0,0,1,3,0],[1,0,0,2,2],[2,0,0,0,3]],
+    [[1,0,2,1,0],[0,2,0,0,2],[1,0,1,2,0],[0,0,1,3,0],[0,1,0,0,3]],
+    [[1,0,2,1,0],[2,0,1,1,0],[0,3,0,0,2],[1,1,1,1,1]],
+    [[2,0,2,0,0],[0,0,2,0,2],[0,0,2,2,0],[0,2,0,0,2],[0,2,0,2,0]]
+  ];
+  const moods = ["감성적인","신나는","차분한","몽환적인","자유롭고 개성 있는"];
+  const sounds = ["피아노와 스트링","기타와 드럼","어쿠스틱 악기","전자음과 신스","베이스와 비트"];
+  const profiles = {
+    "R&B": { description:"부드러운 보컬과 깊은 그루브가 마음을 자연스럽게 움직이는 취향이에요.", keywords:["그루브","섬세한 보컬","따뜻한 밤","감정선"] },
+    "락": { description:"기타와 드럼의 선명한 에너지에 마음이 뛰는 취향이에요.", keywords:["에너지","기타 리프","해방감","라이브"] },
+    "발라드": { description:"멜로디와 가사에 오래 머물며 감정을 천천히 음미하는 취향이에요.", keywords:["진심 어린 가사","피아노","여운","감성"] },
+    "인디": { description:"익숙한 공식보다 개성 있는 목소리와 새로운 질감을 좋아하는 취향이에요.", keywords:["독특한 감성","산책","새로운 발견","몽환"] },
+    "힙합/팝": { description:"리듬과 비트가 만드는 순간의 활력을 즐기는 취향이에요.", keywords:["비트","자신감","신선한 사운드","활기"] }
+  };
+  const songs = {
+    "R&B":["Good Days — SZA","Best Part — Daniel Caesar","instagram — DEAN","Rush Hour — Crush","Thinkin Bout You — Frank Ocean"],
+    "락":["Do I Wanna Know? — Arctic Monkeys","Everlong — Foo Fighters","한 페이지가 될 수 있게 — DAY6","Still Into You — Paramore","Don't Stop Me Now — Queen"],
+    "발라드":["Easy On Me — Adele","신호등 — 이무진","두 사람 — 성시경","밤편지 — IU","Perfect — Ed Sheeran"],
+    "인디":["seasons — wave to earth","기다린 만큼 — 검정치마","Comes And Goes — HYUKOH","긴 꿈 — 새소년","주저하는 연인들을 위해 — 잔나비"],
+    "힙합/팝":["HUMBLE. — Kendrick Lamar","Ditto — NewJeans","24K Magic — Bruno Mars","See You Again — Tyler, The Creator","Supernova — aespa"]
+  };
+  const answers = Array(7).fill(null);
+  let current = 0, lastResult = null;
+  const $ = id => document.getElementById(id);
+  const panels = [...document.querySelectorAll(".question-panel")];
+  const views = [$('start-view'), $('survey-view'), $('pattern-view'), $('result-view')];
+  function showView(view) {
+    views.forEach(item => { item.hidden = item !== view; });
+    view.classList.remove("view");
+    void view.offsetWidth;
+    view.classList.add("view");
+    view.scrollIntoView({behavior:matchMedia("(prefers-reduced-motion: reduce)").matches ? "instant" : "smooth",block:"start"});
+  }
+  function showQuestion(index) {
+    current = index;
+    panels.forEach((panel,i) => { panel.hidden = i !== index; });
+    $("question-count").textContent = `질문 ${index + 1} / 7`;
+    const percent = Math.round(((index + 1) / 7) * 100);
+    $("progress-label").textContent = `${percent}%`;
+    $("progress-fill").style.width = `${percent}%`;
+    document.querySelector(".progress").setAttribute("aria-valuenow",String(percent));
+    $("next-button").hidden = index === 6;
+    $("submit-button").hidden = index !== 6;
+    $("survey-error").textContent = "";
+  }
+  function calculate() {
+    const scores = Array(5).fill(0);
+    answers.forEach((answer,q) => points[q][answer].forEach((value,genre) => { scores[genre] += value; }));
+    const highest = Math.max(...scores);
+    const tied = genres.filter((_,i) => scores[i] === highest);
+    let primary = tied[0];
+    for (let q = 0; q < answers.length && tied.length > 1; q++) {
+      const weights = tied.map(genre => points[q][answers[q]][genres.indexOf(genre)]);
+      const best = Math.max(...weights);
+      if (weights.filter(value => value === best).length === 1) { primary = tied[weights.indexOf(best)]; break; }
+    }
+    return {primary,tied};
+  }
+  function renderResult() {
+    const result = calculate();
+    lastResult = result;
+    const mood = moods[answers[1]], sound = sounds[answers[3]];
+    $("result-genre").textContent = result.tied.join(" × ");
+    $("result-description").textContent = result.tied.length > 1
+      ? `${result.tied.join("와 ")}의 매력이 함께 빛나요. ${mood} 분위기를 찾고 ${sound}에 끌리는 당신에게, ${profiles[result.primary].description}`
+      : `${mood} 분위기를 찾고 ${sound}에 끌리는 당신. ${profiles[result.primary].description}`;
+    const values = [...new Set([
+      ...profiles[result.primary].keywords.slice(0,3),
+      ...result.tied.filter(g => g !== result.primary).map(g => profiles[g].keywords[0]),
+      mood
+    ])].slice(0,5);
+    $("result-keywords").replaceChildren(...values.map(value => {
+      const tag = document.createElement("span");
+      tag.className = "keyword";
+      tag.textContent = value;
+      return tag;
+    }));
+    document.querySelectorAll(".genre-panel").forEach(panel => { panel.hidden = panel.dataset.genre !== result.primary; });
+    $("result-notice").textContent = "";
+    showView($("result-view"));
+  }
+  $("start-button").addEventListener("click",() => { showQuestion(0); showView($("survey-view")); });
+  $("back-button").addEventListener("click",() => {
+    if (current === 0) showView($("start-view"));
+    else showQuestion(current - 1);
+  });
+  $("survey-form").addEventListener("change",event => {
+    if (event.target.matches('input[type="radio"]')) {
+      answers[Number(event.target.name.slice(1))] = Number(event.target.value);
+      $("survey-error").textContent = "";
+    }
+  });
+  $("survey-form").addEventListener("submit",event => {
+    event.preventDefault();
+    if (answers[current] === null) {
+      $("survey-error").textContent = "선택지를 하나 골라 주세요.";
+      panels[current].querySelector("input").focus();
+      return;
+    }
+    if (current < 6) { showQuestion(current + 1); return; }
+    const missing = answers.indexOf(null);
+    if (missing !== -1) {
+      showQuestion(missing);
+      $("survey-error").textContent = "결과를 보기 전에 이 질문에 답해 주세요.";
+      panels[missing].querySelector("input").focus();
+      return;
+    }
+    const sameChoice = answers.every(answer => answer === answers[0]);
+    if (sameChoice) {
+      showView($("pattern-view"));
+      return;
+    }
+    renderResult();
+  });
+  $("pattern-restart-button").addEventListener("click",() => {
+    answers.fill(null);
+    $("survey-form").reset();
+    lastResult = null;
+    showQuestion(0);
+    showView($("survey-view"));
+  });
+  $("edit-button").addEventListener("click",() => { showQuestion(0); showView($("survey-view")); });
+  $("restart-button").addEventListener("click",() => {
+    answers.fill(null);
+    $("survey-form").reset();
+    lastResult = null;
+    showQuestion(0);
+    showView($("survey-view"));
+  });
+  $("genre-songs").addEventListener("click",event => {
+    if (event.target.closest(".play-button")) $("result-notice").textContent = "음악 서비스에서 검색해 보세요";
+  });
+  $("copy-button").addEventListener("click",async () => {
+    if (!lastResult) return;
+    const summary = `나만의 음악 취향 찾기\n추천 장르: ${lastResult.tied.join(" × ")}\n${$("result-description").textContent}\n취향 키워드: ${[...$("result-keywords").children].map(el => el.textContent).join(", ")}\n추천 곡:\n${songs[lastResult.primary].map(song => `• ${song}`).join("\n")}`;
+    try {
+      await navigator.clipboard.writeText(summary);
+      $("result-notice").textContent = "추천 결과를 복사했어요.";
+    } catch {
+      $("result-notice").textContent = "복사할 수 없어요. 브라우저의 클립보드 권한을 확인해 주세요.";
+    }
+  });
+  showQuestion(0);
+})();
+</script>
+ 
+</body></html>
